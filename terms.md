@@ -41,7 +41,7 @@ permalink: /terms
 
 ## 6. Reklamacje
 
-1. Reklamacje związane z działaniem aplikacji można składać e-mailem na adres ruszsportapp@gmail.com.  
+1. Reklamacje związane z działaniem aplikacji można składać e-mailem na adres ruszsportdev@gmail.com.  
 2. Reklamacja powinna zawierać opis problemu i dane kontaktowe.  
 3. Administrator rozpatrzy reklamację w terminie 14 dni roboczych.  
 4. Administrator nie odpowiada za problemy wynikające z błędów oprogramowania stron trzecich, działania systemów operacyjnych lub urządzeń użytkownika.
