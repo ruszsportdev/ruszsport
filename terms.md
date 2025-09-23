@@ -10,7 +10,7 @@ permalink: /terms
 
 ## 1. Postanowienia ogólne
 
-1. Niniejszy regulamin określa zasady korzystania z aplikacji mobilnej „ruszsport”, prowadzonej przez Annę Karcz Ruszsport (jednoosobowa działalność gospodarcza, NIP: 6551977633), z siedzibą przy Al. 29 Listopada 201/77, 31-241 Kraków, e-mail: ruszsportapp@gmail.com.  
+1. Niniejszy regulamin określa zasady korzystania z aplikacji mobilnej „ruszsport”, prowadzonej przez Annę Karcz Ruszsport (jednoosobowa działalność gospodarcza, NIP: 6551977633), z siedzibą przy Al. 29 Listopada 201/77, 31-241 Kraków, e-mail: ruszsportdev@gmail.com.  
 2. Korzystanie z aplikacji oznacza akceptację warunków Regulaminu oraz Polityki Prywatności.
 
 ## 2. Zakres usług
