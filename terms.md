@@ -1,5 +1,5 @@
 ---
-title: "Regulamin korzystania z aplikacji ruszsport"
+title: "Regulamin korzystania z aplikacji Ruszsport"
 permalink: /terms
 ---
 
