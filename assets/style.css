@@ -28,3 +28,8 @@ a {
 code, pre {
   font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
+
+
+h2 a {
+    font-size: 18px;
+}
