@@ -79,7 +79,7 @@ Użytkownik ma prawo do:
 - ograniczenia przetwarzania  
 - przenoszenia danych  
 - sprzeciwu wobec przetwarzania  
-- cofnięcia zgody w dowolnym momencie poprzez wysłanie wiadomości e-mail na adres ruszsportdev@gmail.com (cofnięcie zgody nie wpływa na zgodność z prawem przetwarzania dokonanego przed cofnięciem)  
+- cofnięcia zgody w dowolnym momencie poprzez wysłanie wiadomości e-mail na adres ruszsport.mobile@gmail.com (cofnięcie zgody nie wpływa na zgodność z prawem przetwarzania dokonanego przed cofnięciem)  
 
 Użytkownik ma również prawo wniesienia skargi do organu nadzorczego:  
 Prezes Urzędu Ochrony Danych Osobowych (UODO)  
