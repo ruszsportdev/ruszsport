@@ -1,13 +1,13 @@
 body {
     background-color: rgb(251, 251, 251);
-    color: black;
+    color: red;
 }
 
 /* motyw ciemny */
 @media (prefers-color-scheme: dark) {
     body {
         background-color: rgb(30, 30, 30);
-        color: white;
+        color: green;
     }
 }
 
