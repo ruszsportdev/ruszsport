@@ -11,6 +11,6 @@ permalink: /faq
 
 ### Kontakt
 
-Jeżeli nie znalazłeś odpowiedzi na swoje pytania albo masz jakiś pomysł, dzięki któremu nasza apka mogłaby być jeszcze lepsza, skontaktuj się z nami mailowo: ruszsport.mobile@gmail.com lub skorzystaj z formularza w zakładce Ustawienia -> Pomoc
+Jeżeli nie znalazłeś odpowiedzi na swoje pytania albo masz jakiś pomysł, dzięki któremu nasza apka mogłaby być jeszcze lepsza, skontaktuj się z nami mailowo: ruszsport.mobile@gmail.com lub skorzystaj z formularza w zakładce `Ustawienia -> Pomoc`
 
 ---
