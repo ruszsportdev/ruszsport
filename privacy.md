@@ -1,9 +1,9 @@
 ---
-title: "Polityka Prywatności aplikacji ruszsport"
+title: "Polityka Prywatności aplikacji Ruszsport"
 permalink: /privacy
 ---
 
-# Polityka Prywatności aplikacji „ruszsport”
+# Polityka Prywatności aplikacji „Ruszsport”
 
 **Data wejścia w życie:** 01.10.2025  
 **Ostatnia aktualizacja:** 01.10.2025
