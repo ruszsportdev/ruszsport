@@ -1,3 +1,8 @@
+---
+title: "Najczęściej zadawane pytania"
+permalink: /faq
+---
+
 # Najczęściej zadawane pytania
 
 ## Spis treści
