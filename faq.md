@@ -7,7 +7,7 @@ layout: default
 # Najczęściej zadawane pytania
 
 ## Spis treści
-1. [Kontakt](#kontakt)
+- [Kontakt](#kontakt)
 ---
 
 ### Kontakt
