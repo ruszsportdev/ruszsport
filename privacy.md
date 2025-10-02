@@ -15,7 +15,7 @@ Anna Karcz Ruszsport
 Jednoosobowa działalność gospodarcza  
 Adres: Al. 29 Listopada 201/77, 31-241 Kraków, Polska  
 NIP: 6551977633  
-Adres e-mail: ruszsportdev@gmail.com  
+Adres e-mail: ruszsport.mobile@gmail.com
 
 W sprawach dotyczących ochrony danych osobowych można kontaktować się bezpośrednio z Administratorem na powyższy adres e-mail.
 
@@ -119,4 +119,4 @@ W przypadku wprowadzenia zmian w Polityce Prywatności użytkownicy zostaną poi
 ## 14. Kontakt
 
 W sprawach dotyczących prywatności prosimy o kontakt:  
-ruszsportdev@gmail.com
+ruszsport.mobile@gmail.com
