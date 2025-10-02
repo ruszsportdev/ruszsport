@@ -11,10 +11,15 @@ body {
     }
 }
 
-.site-header {
-    display: none !important;
+body,
+p,
+li,
+h1, h2, h3, h4, h5, h6,
+a,
+code, pre {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.site-footer {
-    display: none !important;
+code, pre {
+  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
