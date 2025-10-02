@@ -3,14 +3,14 @@ title: "Regulamin korzystania z aplikacji ruszsport"
 permalink: /terms
 ---
 
-# Regulamin korzystania z aplikacji „ruszsport”
+# Regulamin korzystania z aplikacji „Ruszsport”
 
 **Data wejścia w życie:** 01.10.2025  
 **Ostatnia aktualizacja:** 01.10.2025
 
 ## 1. Postanowienia ogólne
 
-1. Niniejszy regulamin określa zasady korzystania z aplikacji mobilnej „ruszsport”, prowadzonej przez Annę Karcz Ruszsport (jednoosobowa działalność gospodarcza, NIP: 6551977633), z siedzibą przy Al. 29 Listopada 201/77, 31-241 Kraków, e-mail: ruszsportdev@gmail.com.  
+1. Niniejszy regulamin określa zasady korzystania z aplikacji mobilnej „Ruszsport”, prowadzonej przez Annę Karcz Ruszsport (jednoosobowa działalność gospodarcza, NIP: 6551977633), z siedzibą przy Al. 29 Listopada 201/77, 31-241 Kraków, e-mail: ruszsport.mobile@gmail.com.  
 2. Korzystanie z aplikacji oznacza akceptację warunków Regulaminu oraz Polityki Prywatności.
 
 ## 2. Zakres usług
@@ -41,7 +41,7 @@ permalink: /terms
 
 ## 6. Reklamacje
 
-1. Reklamacje związane z działaniem aplikacji można składać e-mailem na adres ruszsportdev@gmail.com.  
+1. Reklamacje związane z działaniem aplikacji można składać e-mailem na adres ruszsport.mobile@gmail.com.  
 2. Reklamacja powinna zawierać opis problemu i dane kontaktowe.  
 3. Administrator rozpatrzy reklamację w terminie 14 dni roboczych.  
 4. Administrator nie odpowiada za problemy wynikające z błędów oprogramowania stron trzecich, działania systemów operacyjnych lub urządzeń użytkownika.
