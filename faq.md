@@ -1,4 +1,4 @@
-# FAQ – Pytania i Odpowiedzi
+# FAQ – Spis treści
 
 ## Spis treści
 1. [Pytanie 1](#pytanie-1)
@@ -12,8 +12,6 @@
 
 ---
 
-## Ogólne
-
 <details>
   <summary id="pytanie-1">[TWOJE PYTANIE 1]</summary>
   [TWOJA ODPOWIEDŹ 1]
@@ -23,8 +21,6 @@
   <summary id="pytanie-2">[TWOJE PYTANIE 2]</summary>
   [TWOJA ODPOWIEDŹ 2]
 </details>
-
-## Instalacja
 
 <details>
   <summary id="pytanie-3">[TWOJE PYTANIE 3]</summary>
@@ -36,8 +32,6 @@
   [TWOJA ODPOWIEDŹ 4]
 </details>
 
-## Funkcje
-
 <details>
   <summary id="pytanie-5">[TWOJE PYTANIE 5]</summary>
   [TWOJA ODPOWIEDŹ 5]
@@ -47,8 +41,6 @@
   <summary id="pytanie-6">[TWOJE PYTANIE 6]</summary>
   [TWOJA ODPOWIEDŹ 6]
 </details>
-
-## Wsparcie
 
 <details>
   <summary id="pytanie-7">[TWOJE PYTANIE 7]</summary>
