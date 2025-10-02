@@ -1,6 +1,7 @@
 ---
 title: "Najczęściej zadawane pytania"
 permalink: /faq
+layout: default
 ---
 
 # Najczęściej zadawane pytania
