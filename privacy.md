@@ -3,8 +3,6 @@ title: "Polityka Prywatności aplikacji Ruszsport"
 permalink: /privacy
 layout: default
 ---
-<div markdown="1" style="background-color:#1e1e1e; color:#f5f5f5; padding:2rem; border-radius:8px;">
-
 # Polityka Prywatności aplikacji „Ruszsport”
 
 **Data wejścia w życie:** 01.10.2025  
@@ -122,4 +120,3 @@ W przypadku wprowadzenia zmian w Polityce Prywatności użytkownicy zostaną poi
 
 W sprawach dotyczących prywatności prosimy o kontakt:  
 ruszsport.mobile@gmail.com
-</div>
