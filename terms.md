@@ -1,6 +1,7 @@
 ---
 title: "Regulamin korzystania z aplikacji Ruszsport"
 permalink: /terms
+layout: default
 ---
 
 # Regulamin korzystania z aplikacji „Ruszsport”
