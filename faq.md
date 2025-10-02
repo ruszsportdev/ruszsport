@@ -1,4 +1,4 @@
-# FAQ – Spis treści
+# Najczęściej zadawane pytania
 
 ## Spis treści
 1. [Pytanie 1](#pytanie-1)
