@@ -10,7 +10,7 @@ permalink: /faq
 2. [Dla kogo jest projekt?](#dla-kogo-jest-projekt)
 ---
 
-### Czym jest ten projekt? {#czym-jest-ten-projekt}
+### Czym jest ten projekt? (#czym-jest-ten-projekt)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.  
@@ -81,7 +81,7 @@ Projekt umożliwia szybkie zarządzanie **danymi przykładowymi** i generowanie 
 
 ---
 
-### Dla kogo jest projekt? {#dla-kogo-jest-projekt}
+### Dla kogo jest projekt? (#dla-kogo-jest-projekt
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non ante ut ligula fermentum bibendum.  
 
