@@ -8,7 +8,7 @@ layout: default
 
 ## Spis treści
 - [Kontakt](#kontakt)
-- [Nie widzę w aplikacji kroków/dystansu][#kroki-dystans]
+- [Nie widzę w aplikacji kroków/dystansu](#krokidystans)
 ---
 
 ### Kontakt
